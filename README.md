@@ -6,6 +6,7 @@
 [![Code Health](https://landscape.io/github/ICTU/quality-report/master/landscape.svg?style=flat)](https://landscape.io/github/ICTU/quality-report/master)
 [![Dependency Status](https://dependencyci.com/github/ICTU/quality-report/badge)](https://dependencyci.com/github/ICTU/quality-report)
 [![](https://images.microbadger.com/badges/image/ictu/quality-report.svg)](https://microbadger.com/images/ictu/quality-report "Get your own image badge on microbadger.com")
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/quality-report)](https://bettercodehub.com)
 
 Quality-report
 ==============
